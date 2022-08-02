@@ -12,6 +12,8 @@ Frontend
 > 기타 : Axios, KaKao API, jQuery
 
 Backend
+> ***백엔드 Github*** https://github.com/panorama713/TemaProject_B
+>
 > Framework : Spring boot 2.7.x, Mybatis
 > 
 > JDK(Java Development Kit) : 1.8
