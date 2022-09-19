@@ -27,10 +27,13 @@ Data Model
 
 유저 관련 기능
 - 로그인, 로그아웃, 회원가입
+<img width="1398" alt="image" src="https://user-images.githubusercontent.com/85289162/190942971-9dc3fe2a-2ed3-47a4-a597-8aebf33fbc26.png">
+
 - 아이디, 비밀번호 찾기
 <img width="1081" alt="image" src="https://user-images.githubusercontent.com/85289162/182333157-ef8403bd-98e8-411c-972f-66924086bcd1.png">
 
 - 마이페이지 : 회원정보 확인 및 수정, 결제내역 확인
+<img width="895" alt="182332430-97f039f8-f5ed-4e5d-8256-1db759ce16d4" src="https://user-images.githubusercontent.com/85289162/190943458-d4743983-0561-42a2-a6a3-3a7435aafc69.png">
 
 
 - 구매내역 : 취소신청, 상품리뷰작성
