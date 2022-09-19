@@ -10,7 +10,16 @@
 
 ## 기술스택
 
-- 
+System Architecture
+
+> Nuxt.js - Spring boot (REST API 통신)
+
+- Spring Boot(API Server), Gradle
+- Oracle Cloud(RDBMS)
+- Mybatis
+- JWT(Login)
+- Nuxt.js
+- Bootstrap 5.x
 
 Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
@@ -24,7 +33,7 @@ Data Model
 - 회원가입
 <img width="1398" alt="image" src="https://user-images.githubusercontent.com/85289162/190942971-9dc3fe2a-2ed3-47a4-a597-8aebf33fbc26.png">
 
-- 아이디, 비밀번호 찾기
+- 로그인, 아이디, 비밀번호 찾기
 <img width="1081" alt="image" src="https://user-images.githubusercontent.com/85289162/182333157-ef8403bd-98e8-411c-972f-66924086bcd1.png">
 
 - 마이페이지 : 회원정보 확인 및 수정, 결제내역 확인
@@ -36,8 +45,8 @@ Data Model
 
 
 메인페이지
-- 선택 검색 : 위치를 통한 판매상품 검색
-- 판매 상품 나열 : 선택시 제품 상세페이지
+- 선택 검색 : 위치검색을 통한 판매상품 검색
+- 판매 상품 나열 : 클릭시 제품 상세페이지로 이동함
 <img width="1378" alt="image" src="https://user-images.githubusercontent.com/85289162/182334214-838871c9-8b05-4517-9e55-5704e26daa5b.png">
 
 여행상품
