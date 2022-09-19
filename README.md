@@ -1,24 +1,16 @@
 ## 프로젝트 소개
 
 > 국내여행상품 판매 사이트
+> 
+> 코로나의 종식이 조금씩 보이는 상황에서 국내 여행의 수요가 늘면서 여행판매 사이트의 필요성을 느끼게 되어 프로젝트를 진행하였습니다.
 
 **System Architecture**
 
 > Nuxt.js - Spring boot (REST API 통신)
 
-Frontend
-> Design Framework : Bootstrap
-> 
-> 기타 : Axios, KaKao API, jQuery
+## 기술스택
 
-Backend
-> ***백엔드 Github*** https://github.com/panorama713/TemaProject_B
->
-> Framework : Spring boot 2.7.x, Mybatis
-> 
-> JDK(Java Development Kit) : 1.8
-> 
-> DB : Oracle Cloud 19c
+- 
 
 Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
