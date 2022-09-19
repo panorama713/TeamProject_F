@@ -31,7 +31,7 @@ Data Model
 <img width="1081" alt="image" src="https://user-images.githubusercontent.com/85289162/182333157-ef8403bd-98e8-411c-972f-66924086bcd1.png">
 
 - 마이페이지 : 회원정보 확인 및 수정, 결제내역 확인
-<img width="895" alt="image" src="https://user-images.githubusercontent.com/85289162/182332430-97f039f8-f5ed-4e5d-8256-1db759ce16d4.png">
+
 
 - 구매내역 : 취소신청, 상품리뷰작성
 <img width="1390" alt="image" src="https://user-images.githubusercontent.com/85289162/182339061-a91e277a-0de0-49d7-8bbb-9f0ec15ddd7f.png">
