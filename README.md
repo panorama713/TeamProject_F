@@ -4,10 +4,6 @@
 > 
 > 코로나의 종식이 조금씩 보이는 상황에서 국내 여행의 수요가 늘면서 여행판매 사이트의 필요성을 느끼게 되어 프로젝트를 진행하였습니다.
 
-**System Architecture**
-
-> Nuxt.js - Spring boot (REST API 통신)
-
 ## 기술스택
 
 System Architecture
