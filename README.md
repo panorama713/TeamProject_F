@@ -24,9 +24,12 @@ Data Model
 > <img width="1174" alt="image" src="https://user-images.githubusercontent.com/85289162/182324404-b0f758f7-dbf5-4886-b5b4-72c8085b56ed.png">
 
 ## 사이트 간략기능
+상단바
+- 메뉴, 검색, 로그인, 로그아웃(로그인시), 회원가입
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/85289162/190943576-b8674925-52a0-4c0d-ac4a-07deaec5fa19.png">
 
 유저 관련 기능
-- 로그인, 로그아웃, 회원가입
+- 회원가입
 <img width="1398" alt="image" src="https://user-images.githubusercontent.com/85289162/190942971-9dc3fe2a-2ed3-47a4-a597-8aebf33fbc26.png">
 
 - 아이디, 비밀번호 찾기
