@@ -25,8 +25,8 @@ Data Model
 
 ## 사이트 간략기능
 상단바
-- 메뉴, 검색, 로그인, 로그아웃(로그인시), 회원가입
-<img width="650" alt="image" src="https://user-images.githubusercontent.com/85289162/190943576-b8674925-52a0-4c0d-ac4a-07deaec5fa19.png">
+- 여행상품, 여행정보, 게시판, 검색기능(상품명 검색), (로그인x)회원가입, 로그인, (로그인o)회원정보, 장바구니, 로그아웃
+<img width="925" alt="image" src="https://user-images.githubusercontent.com/85289162/182331166-be3761ac-1afd-443d-8b5c-53659de134aa.png">
 
 유저 관련 기능
 - 회원가입
@@ -42,9 +42,6 @@ Data Model
 - 구매내역 : 취소신청, 상품리뷰작성
 <img width="1390" alt="image" src="https://user-images.githubusercontent.com/85289162/182339061-a91e277a-0de0-49d7-8bbb-9f0ec15ddd7f.png">
 
-상단바
-- 여행상품, 여행정보, 게시판, 검색기능(상품명 검색), (로그인x)회원가입, 로그인, (로그인o)회원정보, 장바구니, 로그아웃
-<img width="925" alt="image" src="https://user-images.githubusercontent.com/85289162/182331166-be3761ac-1afd-443d-8b5c-53659de134aa.png">
 
 메인페이지
 - 선택 검색 : 위치를 통한 판매상품 검색
